@@ -2,19 +2,21 @@
     margin: 0;
 }
 
-.btn-primary{
+.btn-primary {
     border-radius: 5px;
     background: #FF5959;
     font-size: 20px;
     padding: 16px 12px;
     color: #fff;
-    margin-top: 30px;   
+    margin-top: 30px;
+    border: none;
 }
-.btn-div{
+
+.btn-div {
     text-align: center;
 }
-    
-   
+
+
 
 /* Header Section Design */
 .header {
@@ -38,4 +40,57 @@
     font-size: 18px;
     line-height: 28px;
     margin-top: 20px;
+}
+
+/* Donate section design */
+.section-title {
+    text-align: center;
+    margin-top: 130px;
+    font-size: 45px;
+    font-weight: 700;
+    color: #121212;
+}
+
+.section-paragraph {
+    color: #707070;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.donate-tk {
+    display: flex;
+    gap: 22px;
+    margin: 50px 330px;
+
+}
+
+.donate-section .donate-tk .tk {
+    width: 135px;
+    border-radius: 5px;
+    background: #FAFAFA;
+    text-align: center;
+    color: #707070;
+    padding: 43px 24px;
+}
+
+.active {
+    border-radius: 5px;
+    border: 2px solid #FF5959;
+    background: #FEE;
+    color: #FF5959;
+    width: 135px;
+    border-radius: 5px;
+    padding: 43px 24px;
+    text-align: center;
+}
+
+.donate-other {
+    color: #B3B3B3;
+    text-align: center;
+    font-size: 18px;
+}
+hr{
+    width: 765px;
+    margin: 0 auto;
 }
