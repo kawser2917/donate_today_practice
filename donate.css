@@ -90,32 +90,63 @@
     text-align: center;
     font-size: 18px;
 }
-hr{
+
+hr {
     width: 765px;
     margin: 0 auto;
 }
+
 /* Our Donate plan started */
-.our-donate-plan .section-paragraph{
+.our-donate-plan .section-paragraph {
     margin-bottom: 50px;
 }
-.our-plan-container{
+
+.our-plan-container {
     display: flex;
     gap: 24px;
-    margin:0 auto;
+    margin: 0 auto;
     width: 1000px;
 }
-.our-plan{
+
+.our-plan {
     background-color: #4F9DA61A;
     border-radius: 5px;
     padding: 50px 23px;
 }
-.our-plan-1{
+
+.our-plan-1 {
     background-color: #FF59591A;
     border-radius: 5px;
     padding: 50px 23px;
 }
-.our-plan-2{
+
+.our-plan-2 {
     background-color: #FFF4D6;
     border-radius: 5px;
     padding: 50px 23px;
+
+}
+
+.help-desc {
+    margin-top: 100px;
+}
+
+.help-desc .container {
+    display: flex;
+    margin: 0 auto;
+    gap: 20px;
+    align-items: center;
+    width: 1000px;
+
+}
+
+.donation-title {
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+}
+.donation-desc{
+    color: #707070;
+    font-size: 18px;
+    margin-top: 15px;   
 }
