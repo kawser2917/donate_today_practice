@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+}
+
+.btn-primary{
+    border-radius: 5px;
+    background: #FF5959;
+    font-size: 20px;
+    padding: 16px 12px;
+    color: #fff;
+    margin-top: 30px;   
+}
+.btn-div{
+    text-align: center;
+}
+    
+   
+
+/* Header Section Design */
+.header {
+    background-image: url("images/donation13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 669px;
+}
+
+.header-title {
+    text-align: center;
+    color: #fff;
+    font-size: 65px;
+    padding-top: 174px;
+    font-weight: 700;
+}
+
+.header-info {
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 20px;
+}
