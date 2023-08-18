@@ -94,3 +94,28 @@ hr{
     width: 765px;
     margin: 0 auto;
 }
+/* Our Donate plan started */
+.our-donate-plan .section-paragraph{
+    margin-bottom: 50px;
+}
+.our-plan-container{
+    display: flex;
+    gap: 24px;
+    margin:0 auto;
+    width: 1000px;
+}
+.our-plan{
+    background-color: #4F9DA61A;
+    border-radius: 5px;
+    padding: 50px 23px;
+}
+.our-plan-1{
+    background-color: #FF59591A;
+    border-radius: 5px;
+    padding: 50px 23px;
+}
+.our-plan-2{
+    background-color: #FFF4D6;
+    border-radius: 5px;
+    padding: 50px 23px;
+}
